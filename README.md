@@ -1,2 +1,2 @@
 # kongsun
-### This is testing...
+### This is testing.
